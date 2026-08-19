@@ -1,4 +1,4 @@
-**HNE (The Honored Engine)** is a custom 2D game engine written from scratch in C++.
+**HNE (The Honored Engine)** is a custom 2D game engine written from scratch in C++ using OpenGL.
 
 The goal is to learn how game engines actually work by building the systems myself instead of relying on an existing game engine or framework.
 
