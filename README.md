@@ -46,7 +46,7 @@ Currently, HNE can:
 
 ###### For GNU/Linux (Linux)
 ```bash
-sudo apt install ninja # If debian/debian-based
-sudo pacman -S ninja # If arch/arch-based
+sudo apt install ninja  # If debian/debian-based
+sudo pacman -S ninja    # If arch/arch-based
 ./build.sh
 ```
